@@ -43,3 +43,6 @@ streamlit run app.py
 
 👩‍💻 Developed by
 💙 Shreya Thakkar
+https://github.com/shreyathakkar30
+https://www.linkedin.com/in/shreya-thakkar30/
+
